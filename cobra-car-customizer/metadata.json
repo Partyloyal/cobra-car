@@ -1,0 +1,8 @@
+{
+  "name": "Remix كوبرا | استوديو تخصيص وتفصيل فرش السيارات",
+  "description": "منصة كوبرا المتكاملة لتخصيص وتنجيد كبائن السيارات: تفصيل الكراسي، الخيوط، التابلوه، والأبواب والسقف بمختلف الجلود والأقمشة العالمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
